@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279302879210",
+    "project_id": "auth-7b84c",
+    "storage_bucket": "auth-7b84c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279302879210:android:c06ecee1f622b17a6d6493",
+        "android_client_info": {
+          "package_name": "ucucite.edu.getfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279302879210-sik1abi0cn2trkc9fmslelkbdi0ipl4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF7PBsXmqPCeoLp-8acdH35mK5pWDOr4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279302879210-sik1abi0cn2trkc9fmslelkbdi0ipl4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
